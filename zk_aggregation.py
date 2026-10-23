@@ -3,9 +3,10 @@ Zero-knowledge proof aggregation for privacy-preserving payment validation.
 Reuses aggregation techniques for batch verification and privacy guarantees.
 
 Based on:
-[1] A. Aslam, O. Postolache, and S. Oliveira, "A blockchain-based decentralized
-    secure data aggregation scheme with ZKP for WSNs,"
-    Proc. I4Tech2025, Pune, India, Sep. 2025.
+[1] A. Aslam, O. Postolache, S. Oliveira, and J. M. Dias Pereira,
+    "Securing IoT sensors using sharding-based blockchain network technology
+    integration: A systematic review," Sensors, vol. 25, no. 3, p. 807, Jan. 2025.
+    DOI: 10.3390/s25030807 (Open access, MDPI)
 
 Adapted from IoT sensor data aggregation to payment transaction privacy.
 """

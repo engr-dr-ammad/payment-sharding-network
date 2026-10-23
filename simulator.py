@@ -3,11 +3,10 @@ ShardIoT reframed for payments: Throughput, finality, and ZK privacy trade-offs.
 Simulates a sharded settlement network with privacy-preserving transaction validation.
 
 Based on:
-[1] S. Pereira, "Securing IoT sensors using sharding-based blockchain network
-    technology integration," Sensors, vol. 25, no. 3, p. 807, Jan. 2025.
-    DOI: 10.3390/s25030807
-[2] A. Aslam et al., "Blockchain-based decentralized secure data aggregation
-    with ZKP for WSNs," I4Tech2025, Pune, India, Sep. 2025.
+[1] A. Aslam, O. Postolache, S. Oliveira, and J. M. Dias Pereira,
+    "Securing IoT sensors using sharding-based blockchain network technology
+    integration: A systematic review," Sensors, vol. 25, no. 3, p. 807, Jan. 2025.
+    DOI: 10.3390/s25030807 (Open access, MDPI)
 """
 
 import time

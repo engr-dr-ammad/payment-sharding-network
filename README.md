@@ -214,17 +214,15 @@ ZKProof {
 
 This work builds on:
 
-**Core Research Publications:**
+**Core Research Publication:**
 
-[1] S. Pereira, "Securing IoT sensors using sharding-based blockchain network technology integration: A systematic review," *Sensors*, vol. 25, no. 3, p. 807, Jan. 2025. DOI: 10.3390/s25030807  
-   → Foundational sharding architecture and security patterns
-
-[2] A. Aslam, O. Postolache, and S. Oliveira, "A blockchain-based decentralized secure data aggregation scheme with ZKP for WSNs," in *Proc. Int. Conf. Industry 4.0 (I4Tech2025)*, Pune, India, Sep. 2025, pp. 1–5.  
-   → ZK proof aggregation and batch verification techniques
+[1] A. Aslam, O. Postolache, S. Oliveira, and J. M. Dias Pereira, "Securing IoT sensors using sharding-based blockchain network technology integration: A systematic review," *Sensors*, vol. 25, no. 3, p. 807, Jan. 2025. DOI: 10.3390/s25030807  
+   Open access · MDPI · Special Issue: Security and Privacy in Wireless Sensor Networks (WSNs)  
+   → Foundational sharding architecture, ZK aggregation, and security patterns
 
 **Related Concepts:**
-- **Sharding Architecture**: Multi-shard payment processing [Pereira]
-- **ZK Aggregation**: Batch proof compression and nullifier sets [Aslam et al.]
+- **Sharding Architecture**: Multi-shard payment processing
+- **ZK Aggregation**: Batch proof compression and nullifier sets
 - **CBDC Design**: ECB digital euro privacy requirements
 - **Settlement Finality**: Blockchain consensus mechanisms
 
