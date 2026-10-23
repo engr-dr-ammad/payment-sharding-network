@@ -7,6 +7,9 @@ Based on:
     "Securing IoT sensors using sharding-based blockchain network technology
     integration: A systematic review," Sensors, vol. 25, no. 3, p. 807, Jan. 2025.
     DOI: 10.3390/s25030807 (Open access, MDPI)
+[2] A. Aslam, O. Postolache, and S. Oliveira,
+    "A blockchain-based decentralized secure data aggregation scheme with ZKP
+    for WSNs," Proc. I4Tech2025, Pune, India, Sep. 2025, pp. 1–5.
 """
 
 import time
