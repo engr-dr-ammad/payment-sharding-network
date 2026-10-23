@@ -6,6 +6,32 @@ A complete working simulation of a sharded settlement network designed for digit
 
 This project demonstrates **throughput, finality, and privacy trade-offs** for payment systems at scale. It reframes ShardIoT (blockchain sharding) for settlement-style transactions and integrates ZK privacy aggregation techniques to solve the central challenge of digital euros: **privacy for citizens with oversight for regulators**.
 
+## 🎬 Watch the Demo Video
+
+<div align="center">
+
+### Payment Sharding Network - Complete Explanation
+
+**[📺 Download Video from GitHub Releases](https://github.com/engr-dr-ammad/Claude/releases/download/v1.0/Payment_Sharding_Network_Explainer.mp4)** 
+— 14 MB, ~10 minutes
+
+Or stream: [YouTube](#) | [Vimeo](#)
+
+**What you'll see:**
+- ✅ Interactive demo of the sharded payment network
+- ✅ Zero-knowledge privacy with 32:1 proof compression  
+- ✅ Multi-shard transaction routing and block finalization
+- ✅ Three finalization levels in action (optimistic/probabilistic/deterministic)
+- ✅ Privacy metrics: anonymity set, unlinkability, proof compression
+- ✅ Performance analysis: 4,900+ tx/s throughput
+- ✅ Interactive CLI usage and commands
+
+[📝 See Demo Script](DEMO_SCRIPT.md) | [📋 Technical References](DEMO_REFERENCES.txt)
+
+</div>
+
+---
+
 ## Key Components
 
 ### 1. **Sharding Simulator** (`simulator.py`)
