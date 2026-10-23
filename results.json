@@ -1,0 +1,41 @@
+[
+  {
+    "finalization": "OPTIMISTIC",
+    "total_transactions": 500,
+    "processed": 500,
+    "pending": 0,
+    "throughput_tps": 4948.879444406425,
+    "blocks_finalized": 40,
+    "private_transactions": 175,
+    "zk_verified": 175,
+    "finality_latency_ms": 0.1347064971923828,
+    "privacy_ratio": 100.0,
+    "shards": 4
+  },
+  {
+    "finalization": "PROBABILISTIC",
+    "total_transactions": 500,
+    "processed": 448,
+    "pending": 52,
+    "throughput_tps": 4555.356690553998,
+    "blocks_finalized": 40,
+    "private_transactions": 167,
+    "zk_verified": 148,
+    "finality_latency_ms": 0.1285076141357422,
+    "privacy_ratio": 88.62275449101796,
+    "shards": 4
+  },
+  {
+    "finalization": "DETERMINISTIC",
+    "total_transactions": 500,
+    "processed": 40,
+    "pending": 460,
+    "throughput_tps": 420.53219434919487,
+    "blocks_finalized": 40,
+    "private_transactions": 175,
+    "zk_verified": 11,
+    "finality_latency_ms": 0.024318695068359375,
+    "privacy_ratio": 6.2857142857142865,
+    "shards": 4
+  }
+]

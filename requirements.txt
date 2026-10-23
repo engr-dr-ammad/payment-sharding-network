@@ -1,0 +1,11 @@
+# Payment Sharding Network Requirements
+# Minimal dependencies - uses stdlib for crypto
+
+# No external dependencies required
+# - hashlib: stdlib, for Merkle trees and commitments
+# - json: stdlib, for result serialization
+# - time: stdlib, for latency measurement
+
+# Optional for development:
+# - pytest: for testing
+# - black: for code formatting
