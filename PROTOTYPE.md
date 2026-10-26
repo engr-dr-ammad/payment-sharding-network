@@ -401,4 +401,4 @@ That's it! You have a fully working payment sharding network prototype.
 **Created**: October 23, 2026  
 **Status**: Production-Ready  
 **License**: MIT  
-**Repository**: https://github.com/engr-dr-ammad/Claude
+**Repository**: https://github.com/engr-dr-ammad/payment-sharding-network

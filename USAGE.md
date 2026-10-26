@@ -470,5 +470,5 @@ MIT - See LICENSE file
 ## Contact
 
 For questions or contributions:
-- GitHub: https://github.com/engr-dr-ammad/Claude
+- GitHub: https://github.com/engr-dr-ammad/payment-sharding-network
 - Email: ammad@technograte.com.au

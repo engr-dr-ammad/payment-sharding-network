@@ -12,7 +12,7 @@ This project demonstrates **throughput, finality, and privacy trade-offs** for p
 
 ### Payment Sharding Network - Complete Explanation
 
-**[📺 Download Video from GitHub Releases](https://github.com/engr-dr-ammad/Claude/releases/download/v1.0/Payment_Sharding_Network_Explainer.mp4)** 
+**[📺 Download Video from GitHub Releases](https://github.com/engr-dr-ammad/payment-sharding-network/releases/download/v1.0/Payment_Sharding_Network_Explainer.mp4)** 
 — 14 MB, ~10 minutes
 
 Or stream: [YouTube](#) | [Vimeo](#)

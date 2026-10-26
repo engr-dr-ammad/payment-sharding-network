@@ -6,7 +6,7 @@ The video file `Payment_Sharding_Network_Explainer.mp4` (14 MB) needs to be host
 
 ### Step 1: Create a GitHub Release
 
-1. Go to: https://github.com/engr-dr-ammad/Claude/releases
+1. Go to: https://github.com/engr-dr-ammad/payment-sharding-network/releases
 2. Click "Create a new release"
 3. Fill in:
    - **Tag version**: `v1.0`
@@ -37,7 +37,7 @@ The video file `Payment_Sharding_Network_Explainer.mp4` (14 MB) needs to be host
 
 After publishing, right-click the video file and select "Copy link address":
 ```
-https://github.com/engr-dr-ammad/Claude/releases/download/v1.0/Payment_Sharding_Network_Explainer.mp4
+https://github.com/engr-dr-ammad/payment-sharding-network/releases/download/v1.0/Payment_Sharding_Network_Explainer.mp4
 ```
 
 ### Step 3: Add to README.md
@@ -49,9 +49,9 @@ Update the README.md with a video section:
 
 Watch the complete explanation of the payment sharding network:
 
-[![Payment Sharding Network Demo](https://img.youtube.com/vi/YOUTUBE_ID/maxresdefault.jpg)](https://github.com/engr-dr-ammad/Claude/releases/download/v1.0/Payment_Sharding_Network_Explainer.mp4)
+[![Payment Sharding Network Demo](https://img.youtube.com/vi/YOUTUBE_ID/maxresdefault.jpg)](https://github.com/engr-dr-ammad/payment-sharding-network/releases/download/v1.0/Payment_Sharding_Network_Explainer.mp4)
 
-**[📺 Download Video (14 MB)](https://github.com/engr-dr-ammad/Claude/releases/download/v1.0/Payment_Sharding_Network_Explainer.mp4)**
+**[📺 Download Video (14 MB)](https://github.com/engr-dr-ammad/payment-sharding-network/releases/download/v1.0/Payment_Sharding_Network_Explainer.mp4)**
 
 Duration: ~10 minutes | Shows:
 - Multi-shard settlement network
@@ -90,8 +90,8 @@ Duration: ~10 minutes | Shows:
      ✓ Privacy metrics and performance analysis
      
      Project Details:
-     GitHub: https://github.com/engr-dr-ammad/Claude
-     Quick Start: git clone https://github.com/engr-dr-ammad/Claude.git
+     GitHub: https://github.com/engr-dr-ammad/payment-sharding-network
+     Quick Start: git clone https://github.com/engr-dr-ammad/payment-sharding-network.git
      
      Based on peer-reviewed research (2025):
      [1] Aslam et al., Sensors, 25(3), 807
@@ -110,7 +110,7 @@ Duration: ~10 minutes | Shows:
      - Type hints and documentation
      
      Try it yourself:
-     $ git clone https://github.com/engr-dr-ammad/Claude.git
+     $ git clone https://github.com/engr-dr-ammad/payment-sharding-network.git
      $ cd Claude
      $ python3 cli.py --mode demo
      ```
@@ -159,7 +159,7 @@ Similar to YouTube, but better for technical/professional audiences:
 
 ### Payment Sharding Network Explainer
 
-**[📺 Watch on GitHub Releases](https://github.com/engr-dr-ammad/Claude/releases/download/v1.0/Payment_Sharding_Network_Explainer.mp4)** 
+**[📺 Watch on GitHub Releases](https://github.com/engr-dr-ammad/payment-sharding-network/releases/download/v1.0/Payment_Sharding_Network_Explainer.mp4)** 
 (14 MB, ~10 minutes)
 
 Or stream on [YouTube](#) | [Vimeo](#)
@@ -228,7 +228,7 @@ For GitHub's README, you can use HTML5 video player:
 
 ```html
 <video width="100%" controls>
-  <source src="https://github.com/engr-dr-ammad/Claude/releases/download/v1.0/Payment_Sharding_Network_Explainer.mp4" type="video/mp4">
+  <source src="https://github.com/engr-dr-ammad/payment-sharding-network/releases/download/v1.0/Payment_Sharding_Network_Explainer.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 ```
@@ -236,7 +236,7 @@ For GitHub's README, you can use HTML5 video player:
 Or use a thumbnail with link:
 
 ```markdown
-[![Payment Sharding Network Demo](https://via.placeholder.com/640x360?text=Watch+Demo+Video)](https://github.com/engr-dr-ammad/Claude/releases/download/v1.0/Payment_Sharding_Network_Explainer.mp4)
+[![Payment Sharding Network Demo](https://via.placeholder.com/640x360?text=Watch+Demo+Video)](https://github.com/engr-dr-ammad/payment-sharding-network/releases/download/v1.0/Payment_Sharding_Network_Explainer.mp4)
 ```
 
 ---

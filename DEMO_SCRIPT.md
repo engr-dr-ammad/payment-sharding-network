@@ -34,7 +34,7 @@ ZK Privacy Layer (32:1 compression)
 
 ```bash
 # COMMAND 1: Clone the repository
-git clone https://github.com/engr-dr-ammad/Claude.git
+git clone https://github.com/engr-dr-ammad/payment-sharding-network.git
 cd Claude
 ```
 
@@ -425,11 +425,11 @@ head -50 simulator.py
 > **HOW TO ACCESS & RUN:**
 >
 > **GitHub Repository:**
-> https://github.com/engr-dr-ammad/Claude
+> https://github.com/engr-dr-ammad/payment-sharding-network
 >
 > **Quick Start (30 seconds):**
 > ```bash
-> git clone https://github.com/engr-dr-ammad/Claude.git
+> git clone https://github.com/engr-dr-ammad/payment-sharding-network.git
 > cd Claude
 > python3 cli.py --mode demo
 > ```
@@ -463,7 +463,7 @@ head -50 simulator.py
 ---
 
 > **QUESTIONS? CONTACT:**
-> - GitHub: https://github.com/engr-dr-ammad/Claude
+> - GitHub: https://github.com/engr-dr-ammad/payment-sharding-network
 > - Email: ammad@technograte.com.au
 > - Documentation: See GITHUB_SETUP.md for complete guide
 >

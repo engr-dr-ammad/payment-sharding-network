@@ -61,7 +61,7 @@ digital currencies (CBDC/digital euro) that solves three core challenges:
 - Settlement infrastructure design
 
 ⚡ QUICK START
-git clone https://github.com/engr-dr-ammad/Claude.git
+git clone https://github.com/engr-dr-ammad/payment-sharding-network.git
 cd Claude
 python3 cli.py --mode demo          # 30 seconds
 python3 -m unittest test_payment_network -v  # Verify (2 sec)
@@ -290,7 +290,7 @@ See the system in action:
 The complete, working prototype is ready to use:
 
 ```bash
-git clone https://github.com/engr-dr-ammad/Claude.git
+git clone https://github.com/engr-dr-ammad/payment-sharding-network.git
 cd Claude
 python3 cli.py --mode demo  # See it work in 30 seconds
 ```
@@ -329,7 +329,7 @@ Sharded settlement network with zero-knowledge privacy for digital currencies.
 Production-ready prototype based on peer-reviewed 2025 research. 27 tests, 
 zero external dependencies.
 
-🚀 Quick start: git clone https://github.com/engr-dr-ammad/Claude.git && cd Claude && python3 cli.py --mode demo
+🚀 Quick start: git clone https://github.com/engr-dr-ammad/payment-sharding-network.git && cd Claude && python3 cli.py --mode demo
 ```
 
 ---

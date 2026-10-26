@@ -12,7 +12,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Payment Research Team",
     author_email="contact@technograte.com.au",
-    url="https://github.com/engr-dr-ammad/Claude",
+    url="https://github.com/engr-dr-ammad/payment-sharding-network",
     license="MIT",
     python_requires=">=3.8",
     py_modules=["simulator", "zk_aggregation", "analysis", "cli"],

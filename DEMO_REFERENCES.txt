@@ -7,10 +7,10 @@ Demo References & Citations
 ================================================================================
 
 GitHub Repository:
-https://github.com/engr-dr-ammad/Claude
+https://github.com/engr-dr-ammad/payment-sharding-network
 
 Quick Start:
-git clone https://github.com/engr-dr-ammad/Claude.git
+git clone https://github.com/engr-dr-ammad/payment-sharding-network.git
 cd Claude
 python3 cli.py --mode demo
 
@@ -73,7 +73,7 @@ QUICK DEMO COMMANDS FOR VIDEO:
 ================================================================================
 
 1. CLONE FROM GITHUB:
-   $ git clone https://github.com/engr-dr-ammad/Claude.git
+   $ git clone https://github.com/engr-dr-ammad/payment-sharding-network.git
    $ cd Claude
 
 2. RUN DEMO (30 seconds):
@@ -161,7 +161,7 @@ PEER-REVIEWED RESEARCH (2025)
     I4Tech2025 Conference, Pune, India
 
 ───────────────────────────────────────────────────────────────────────────────
-GITHUB: https://github.com/engr-dr-ammad/Claude
+GITHUB: https://github.com/engr-dr-ammad/payment-sharding-network
 EMAIL: ammad@technograte.com.au
 ───────────────────────────────────────────────────────────────────────────────
 

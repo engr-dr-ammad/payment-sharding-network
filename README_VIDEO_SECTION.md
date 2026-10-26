@@ -11,7 +11,7 @@ Copy this section into README.md (place it after the introduction, before Quick 
 
 ### Payment Sharding Network - Complete Explanation
 
-**[📺 Download Video from GitHub Releases](https://github.com/engr-dr-ammad/Claude/releases/download/v1.0/Payment_Sharding_Network_Explainer.mp4)** 
+**[📺 Download Video from GitHub Releases](https://github.com/engr-dr-ammad/payment-sharding-network/releases/download/v1.0/Payment_Sharding_Network_Explainer.mp4)** 
 — 14 MB, ~10 minutes
 
 Or stream: [YouTube](#) | [Vimeo](#)
@@ -54,7 +54,7 @@ Here's the full README structure with video integrated:
 
 ## 🎬 Watch the Demo Video
 
-[📺 Download from GitHub Releases](https://github.com/engr-dr-ammad/Claude/releases/download/v1.0/Payment_Sharding_Network_Explainer.mp4) 
+[📺 Download from GitHub Releases](https://github.com/engr-dr-ammad/payment-sharding-network/releases/download/v1.0/Payment_Sharding_Network_Explainer.mp4) 
 (14 MB, ~10 minutes)
 
 **Demonstrations:**
@@ -74,7 +74,7 @@ Here's the full README structure with video integrated:
 
 ```bash
 # Clone the repository
-git clone https://github.com/engr-dr-ammad/Claude.git
+git clone https://github.com/engr-dr-ammad/payment-sharding-network.git
 cd Claude
 
 # Run the interactive demo (30 seconds)
@@ -248,7 +248,7 @@ If you use this in research, please cite:
   author = {Dr. Ammad},
   title = {Payment Sharding Network with Zero-Knowledge Privacy},
   year = {2026},
-  url = {https://github.com/engr-dr-ammad/Claude},
+  url = {https://github.com/engr-dr-ammad/payment-sharding-network},
   note = {Prototype implementation based on Aslam et al. (2025)}
 }
 ```

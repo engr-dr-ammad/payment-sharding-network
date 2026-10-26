@@ -13,7 +13,7 @@ Complete guide to clone, set up, and test the project from the GitHub repository
 
 ### Option A: HTTPS (No SSH key needed)
 ```bash
-git clone https://github.com/engr-dr-ammad/Claude.git
+git clone https://github.com/engr-dr-ammad/payment-sharding-network.git
 cd Claude
 ```
 
@@ -356,7 +356,7 @@ echo "  python3 main.py"
 
 ### Scenario 1: Quick verification (2 minutes)
 ```bash
-git clone https://github.com/engr-dr-ammad/Claude.git
+git clone https://github.com/engr-dr-ammad/payment-sharding-network.git
 cd Claude
 python3 -m unittest test_payment_network -v
 python3 cli.py --mode demo
@@ -364,7 +364,7 @@ python3 cli.py --mode demo
 
 ### Scenario 2: Full analysis (15 minutes)
 ```bash
-git clone https://github.com/engr-dr-ammad/Claude.git
+git clone https://github.com/engr-dr-ammad/payment-sharding-network.git
 cd Claude
 python3 main.py
 open /tmp/payment_analysis.html
@@ -373,7 +373,7 @@ cat FINDINGS.md
 
 ### Scenario 3: Development/Modification (Ongoing)
 ```bash
-git clone https://github.com/engr-dr-ammad/Claude.git
+git clone https://github.com/engr-dr-ammad/payment-sharding-network.git
 cd Claude
 pip install -e .
 # Make changes to simulator.py, etc.
@@ -435,7 +435,7 @@ If you have issues:
 3. Check imports: `python3 -c "from simulator import *"`
 4. Read error messages carefully
 5. See USAGE.md for complete documentation
-6. Check GitHub issues: https://github.com/engr-dr-ammad/Claude/issues
+6. Check GitHub issues: https://github.com/engr-dr-ammad/payment-sharding-network/issues
 
 ---
 
