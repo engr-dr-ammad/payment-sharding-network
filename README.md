@@ -258,8 +258,10 @@ MIT
 
 ## Author
 
-Digital Payment Simulator Project
+**Dr. Ammad Aslam** (engr-dr-ammad)
 Developed for CBDC research and payment system scalability analysis
+
+With AI-assisted tooling for implementation and documentation.
 
 ---
 
